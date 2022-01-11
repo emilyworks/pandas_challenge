@@ -1,6 +1,5 @@
 # pandas_challenge
 
-Skills/tools used: Python, Pandas
+Keywords: Python, Pandas
 
-Prompt: "Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
-As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance."
+In this excercise, I organized and analyzed data to explore educational landscapes and paint a summary picture of school and student performance. The notebook in this repository summarizes numerous metrics around student and school grades, pass rates, and budgets.
